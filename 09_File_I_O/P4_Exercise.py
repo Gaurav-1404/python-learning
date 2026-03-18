@@ -94,7 +94,7 @@ try:
         text = f.read().lower()
 
         for word in words:
-            text = text.replace(word , "#####")
+            text = text.replace(word , "#"* len(word))
         
     with open("file.txt", "w") as f:
         f.write(text)
