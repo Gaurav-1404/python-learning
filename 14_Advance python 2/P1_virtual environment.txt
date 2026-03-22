@@ -1,0 +1,39 @@
+python -m venv env
+.\env\Scripts\Activate.ps1
+# if error occours
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+env\Scripts\activate.bat
+source env/bin/activate
+
+# install packages
+    python -m pip install package_name
+    python -m pip install pandas numpy matplotlib
+
+# See Installed Packages
+    python -m pip list
+    python -m pip freeze
+
+# Save Requirements File
+    python -m pip freeze > requirements.txt
+
+# Install from Requirements File
+    python -m pip install -r requirements.txt
+
+# Deactivate Virtual Environment
+    deactivate
+
+# Delete Virtual Environment
+    rm -rf env      # Linux / Mac
+    rmdir /s env    # manually delete in windows
+
+# Recreate Environment (Clean Setup)
+    python -m venv env
+    .\env\Scripts\Activate.ps1
+    python -m pip install -r requirements.txt
+
+# Check Python Path (Important)
+    where python
+
+# Pro Tips (Very Important)
+    ✔ Always use:
+    python -m pip install ...
