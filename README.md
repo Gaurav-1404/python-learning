@@ -1,4 +1,4 @@
-#**🐍 Python Learning Repository**
+#**Python Learning Repository**
 
 Welcome to my Python learning journey! 🚀
 This repository contains all the concepts, exercises, and mini-projects I’ve learned while studying Python — from basics to advanced topics.
