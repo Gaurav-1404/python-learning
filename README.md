@@ -1,19 +1,24 @@
-#**Python Learning Repository**
+# 🐍 Python Learning Repository
 
-Welcome to my Python learning journey! 🚀
+## 🚀 Welcome!
+
+Welcome to my Python learning journey!  
 This repository contains all the concepts, exercises, and mini-projects I’ve learned while studying Python — from basics to advanced topics.
 
-###📌 About This Repository
+---
+
+## 📌 About This Repository
 
 This repo is created to:
 
-📖 Practice Python concepts step-by-step
-🧠 Build strong programming fundamentals
-💻 Work on small projects
-📂 Organize learning in a structured way
+- 📖 Practice Python concepts step-by-step  
+- 🧠 Build strong programming fundamentals  
+- 💻 Work on small projects  
+- 📂 Organize learning in a structured way  
 
-##**📁 Folder Structure**
+---
 
+## 📁 Folder Structure
 
 | Sr. No | Topic                          | Link |
 |--------|--------------------------------|------|
@@ -30,16 +35,35 @@ This repo is created to:
 | 10     | Object-Oriented Programming    | [View](10_ObjectOrientedProgramming) |
 | 11     | More in OOP                    | [View](11_More_IN_OOPS) |
 | 12     | Project 2                      | [View](12_Project2) |
-| 13     | Advance python 1               | [View](13_Advance_python) |
-| 14     | Advance python 2               | [View](14_Advance_python_2) |
+| 13     | Advance Python 1               | [View](13_Advance_python) |
+| 14     | Advance Python 2               | [View](14_Advance_python_2) |
 
-🛠️ Tech Used
-🐍 Python 3.x
-💻 VS Code / Any IDE
-📈 Learning Goal
+---
+
+## 🛠️ Tech Used
+
+- 🐍 Python 3.x  
+- 💻 VS Code / Any IDE  
+
+---
+
+## 📈 Learning Goal
 
 My goal is to become proficient in Python and use it for:
 
-Problem solving 🧩
-Development 💻
-Building real-world projects 🚀
+- 🧩 Problem Solving  
+- 💻 Development  
+- 🚀 Building Real-World Projects  
+
+---
+
+## ⭐ Support
+
+If you like this repository, don’t forget to **star ⭐ it!**
+
+---
+
+## 👨‍💻 Author
+
+**Gaurav Gupta**  
+Python Learner 🚀
