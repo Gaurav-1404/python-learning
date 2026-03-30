@@ -1,9 +1,9 @@
-**🐍 Python Learning Repository**
+#**🐍 Python Learning Repository**
 
 Welcome to my Python learning journey! 🚀
 This repository contains all the concepts, exercises, and mini-projects I’ve learned while studying Python — from basics to advanced topics.
 
-📌 About This Repository
+###📌 About This Repository
 
 This repo is created to:
 
@@ -12,7 +12,7 @@ This repo is created to:
 💻 Work on small projects
 📂 Organize learning in a structured way
 
-**📁 Folder Structure**
+##**📁 Folder Structure**
 
 
 | Sr. No | Topic                          | Link |
