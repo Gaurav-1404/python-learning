@@ -30,8 +30,8 @@ This repo is created to:
 | 10     | Object-Oriented Programming    | [View](10_ObjectOrientedProgramming) |
 | 11     | More in OOP                    | [View](11_More_IN_OOPS) |
 | 12     | Project 2                      | [View](12_Project2) |
-| 13     | Advance python 1               | [View](13_Advance python) |
-| 14     | Advance python 2               | [View](14_Advance python 2) |
+| 13     | Advance python 1               | [View](13_Advancepython) |
+| 14     | Advance python 2               | [View](14_Advancepython2) |
 
 🛠️ Tech Used
 🐍 Python 3.x
