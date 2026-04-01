@@ -57,12 +57,6 @@ My goal is to become proficient in Python and use it for:
 
 ---
 
-## ⭐ Support
-
-If you like this repository, don’t forget to **star ⭐ it!**
-
----
-
 ## 👨‍💻 Author
 
 **Gaurav Gupta**  
